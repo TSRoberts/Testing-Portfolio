@@ -1,6 +1,6 @@
 # Testing Portfolio
 
-Welcome to my **Testing Portfolio**! 🎯
+Welcome to my testing portfolio!
 
 This repository is dedicated to showcasing my testing work and the projects I’ve been involved in. The portfolio is a collection of test cases, bug reports, test plans, and learning experiences on my journey as a software tester.
 
