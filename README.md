@@ -1,31 +1,35 @@
-# Testing Portfolio 
+# Testing Portfolio
 
-Welcome to my testing portfolio! I am learning software testing and this repository contains my first testing project.
+Welcome to my Testing Portfolio! I am an aspiring software tester currently learning **Manual Testing** with a goal of progressing into **Automation Testing**. I am also studying for the **ISTQB Foundation** certification to further my knowledge in software testing methodologies and practices.
 
----
+## 🔍 What I am Learning
+- Manual Testing techniques
+- Bug Reporting and Tracking
+- Test Case Design
+- Test Plan Creation
+- Test Execution and Reporting
+- Software Testing Methodologies
+- **Automation Testing** (future goal)
 
-## 🔍 Project 1: Amazon Shopping Functionality Test
+## 🏆 Certifications
+I have completed a **Software Foundations and Validation Course**. You can view the detials below:
 
-**Type:** Manual UI Testing  
-**Date:** 2nd June 2025  
-**Website Tested:** [amazon.co.uk](https://www.amazon.co.uk)
+📄 [View Certificate (PDF)](https://github.com/TSRoberts/Testing-Portfolio/blob/main/Certificate%20of%20Achievement.pdf)
 
-### 📋 What I Tested:
-- Adding an item to the basket
-- Invalid promo code behavior at checkout
-- Product image display (UI consistency)
+## 📝 Projects
+Here I document various test cases and test plans along with their execution results. 
 
-### 📄 Documents Included:
-- ✅ Test Plan (PDF)
-- ✅ Test Cases
-- ✅ Test Report
+## 💬 Contact Me
+You can contact me through the following channels:
+- **LinkedIn**: [LinkedIn Profile Link]((http://www.linkedin.com/in/teresa-roberts-3168a3268)
+- **Email**: (mailto:teresaroberts262@yahoo.com)
 
-### ✅ Test Result:
-All test cases passed successfully.
+## 📅 Timeline of Learning
+I’m currently focusing on Manual Testing techniques and planning to expand into Automation Testing. Feel free to explore my journey and progress through this repository.
 
----
+## 🌱 My Goal
+To build a solid portfolio and land my first role in software testing 🚀
 
-## 📚 About Me
+Thanks for visiting my page!
 
-I'm an aspiring software tester building real-world practice through projects like this one. Stay tuned for more testing projects as I learn and grow!
 
