@@ -30,5 +30,5 @@ Here are the key testing projects I have worked on:
      - Verify that items can be added to the cart.
      - Test invalid promo code handling.
      - Ensure correct UI behavior 
-   - **Outcome:** All functional tests passed, with findings on edge cases regarding promo code validation.
+   - **Outcome:** All functional tests passed.
   
