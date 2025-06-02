@@ -12,7 +12,7 @@ Welcome to my Testing Portfolio! I am an aspiring software tester currently lear
 - Automation Testing (future goal)
 
 ## 🏆 Certifications
-I have completed a **Software Foundations and Validation Course**. You can view the detials below:
+I have completed a **Software Foundations and Validation Course**. You can view the details below:
 
 📄 [View Certificate (PDF)](https://github.com/TSRoberts/Testing-Portfolio/blob/main/Certificate%20of%20Achievement.pdf)
 
