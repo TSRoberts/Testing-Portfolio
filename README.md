@@ -1,4 +1,4 @@
-# Testing Portfolio – Teresa Roberts
+# Testing Portfolio 
 
 Welcome to my testing portfolio! I am learning software testing and this repository contains my first testing project.
 
