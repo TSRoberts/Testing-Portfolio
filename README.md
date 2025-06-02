@@ -13,17 +13,6 @@ The goal of this portfolio is to document and demonstrate my growth as a tester.
 - **Test Strategy and Test Planning:** Detailed documentation on test planning, execution, and analysis of test results.
 - **Future Progress:** Projects related to automation testing, where I'll be incorporating tools such as Selenium and Cypress as I progress in my learning.
 
-## Skills & Tools
-
-- **Manual Testing:**
-  - Writing and executing test cases for functional, UI, and regression testing
-  - Bug reporting using tools like JIRA
-  - Test case creation and test plan development
-  
-- **Automation Testing (Learning in Progress):**
-  - Currently learning automation tools like **Selenium**, **Cypress**, and **JUnit**
-  - Writing automated tests for web applications
-  
 - **Testing Tools & Environments:**
   - **Test Case Management:** TestRail, qTest
   - **Version Control:** Git & GitHub
@@ -33,7 +22,7 @@ The goal of this portfolio is to document and demonstrate my growth as a tester.
 
 ## Projects in This Portfolio
 
-Here are the key testing projects I have worked on, showcasing my manual testing skills:
+Here are the key testing projects I have worked on:
 
 ### 1. **Amazon Shopping Functionality Testing**
    - **Objective:** Test the "Add to Cart" functionality, promo code validation, and checkout process on the Amazon website.
